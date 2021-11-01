@@ -15,13 +15,5 @@ int main()
     
     Cnt++;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  return 0;
+ return 0;
 }

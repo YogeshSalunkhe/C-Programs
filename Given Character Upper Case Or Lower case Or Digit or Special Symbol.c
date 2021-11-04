@@ -1,4 +1,4 @@
-/* Classified Character Is Upper Case Or Lower Case Or DIGIT Or Special Symbol */
+//Classified Character Is Upper Case Or Lower Case Or DIGIT Or Special Symbol //
 
 #include <stdio.h>
 #include <conio.h>

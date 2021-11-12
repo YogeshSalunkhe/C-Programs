@@ -9,7 +9,7 @@ int main()
   char ch = '\0';
   
   printf("\n \n Enter A Character =");
-  ch = getchar ();
+  ch = getche();
   
   if( ch >= 'A' && ch <= 'Z')
   {

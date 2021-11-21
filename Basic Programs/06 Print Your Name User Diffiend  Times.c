@@ -9,7 +9,7 @@ int main()
   
   while(cnt >= 1)
   {
-    printf("\n Fork \n Infosystem \n");
+    printf("\n Esha \n Pawar \n");
     
     cnt--;
   }

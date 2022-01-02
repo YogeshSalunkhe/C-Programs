@@ -15,8 +15,5 @@ int main()
   
   printf ("\n After Swapping => No= %d,No = %d",No1,No2);
   
-  
- 
- 
  return 0;
 }

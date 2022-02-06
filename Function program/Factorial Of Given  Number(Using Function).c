@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void Display_Fact(int No)
+void Display_Fact(long int No)
 {
   int Fact = 1,Temp = 0;
   Temp = No ; 

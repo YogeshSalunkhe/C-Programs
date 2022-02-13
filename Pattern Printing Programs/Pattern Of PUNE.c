@@ -81,7 +81,7 @@ void Display_Pune(int N)
 
 int main()
 {
-  int x;
+  int x = 0;
   printf("\n\t Enter Size => ");
   scanf("%d",&x);
   

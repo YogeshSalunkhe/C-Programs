@@ -22,6 +22,7 @@ void Display_Pune(int N)
   }
   
   printf("\n\n");
+
   for( i = 1; i <= N; i++)
   {
     for(j = 1; j <= N;j++)
@@ -39,6 +40,7 @@ void Display_Pune(int N)
   }
   
    printf("\n\n");
+
   for( i = 1; i <= N; i++)
   {
     for(j = 1; j <= N;j++)
@@ -56,6 +58,7 @@ void Display_Pune(int N)
   }
  
   printf("\n\n");
+
   for( i = 1; i <= N; i++)
   {
     for(j = 1; j <= N;j++)

@@ -3,7 +3,7 @@
 
 void Display_Pune(int N)
 {
-  int i,j;
+  int i = 0,j = 0;
   
   for( i = 1; i <= N; i++)
   {

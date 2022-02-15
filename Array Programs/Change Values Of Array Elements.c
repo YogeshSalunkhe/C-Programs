@@ -27,5 +27,7 @@ int main()
   printf("\n\t Values Of 5th Element = %d ",Values[4]);
   
 printf("\n\n\t============:::::===========:::::::========\n");
-  return 0;
+  
+ getch();
+ return 0;
 }

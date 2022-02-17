@@ -1,5 +1,4 @@
 //Compiler version gcc  6.3.0
-
 #include <stdio.h>
 #include <conio.h>
 #define size 5 

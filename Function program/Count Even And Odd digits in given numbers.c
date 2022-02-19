@@ -4,7 +4,8 @@
 void Display_Evencnt(int Ino)
 {
   int Dig,Ecnt = 0;
-     while(Ino > 0)
+     
+   while(Ino > 0)
   {
      Dig = Ino % 10;
      
@@ -23,7 +24,8 @@ void Display_Evencnt(int Ino)
 void Display_Oddcnt(int Ino)
 {
   int Dig,Ocnt = 0;
-     while(Ino > 0)
+    
+  while(Ino > 0)
   {
      Dig = Ino % 10;
      

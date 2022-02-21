@@ -76,8 +76,6 @@ void Display_Pune(int N)
   }
   
 }
-  
-
 
 int main()
 {

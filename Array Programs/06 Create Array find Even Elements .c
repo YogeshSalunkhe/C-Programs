@@ -12,12 +12,11 @@ int main()
   }
   
   for(I = 0;I < 5;I++)
-  {
+  {J 
     if(No[I] % 2 == 0)
     {
         E_Cnt++;
-    }
-  }
+Q  }
   printf("\n\t Even Count Element Of Array => %d",E_Cnt);
   
   return 0;

@@ -3,7 +3,7 @@
 
 int main()
 {
-  int No[5],I,E_Cnt = 0;
+  int No[5],I,O_Cnt = 0;
   
   for(I = 0;I < 5;I++)
   {
@@ -15,10 +15,10 @@ int main()
   {
     if(No[I] % 2 == 1)
     {
-        E_Cnt++;
+        O_Cnt++;
     }
   }
-  printf("\n\t Even Count Element Of Array => %d",E_Cnt);
+  printf("\n\t Even Count Element Of Array => %d",O_Cnt);
   
   return 0;
 }

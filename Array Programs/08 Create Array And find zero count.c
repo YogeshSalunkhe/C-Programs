@@ -18,7 +18,7 @@ int main()
         Z_Cnt++;
     }
   }
-  printf("\n\t Zero Count In Element Of Array => %d",Z_Cnt);
+  printf("\n\t Zero Element Count In Of Array => %d",Z_Cnt);
   
   return 0;
 }

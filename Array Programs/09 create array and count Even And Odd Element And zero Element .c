@@ -32,5 +32,6 @@ int main()
  printf("\n\t Odd Elements In Given Array => %d",O_cnt);
  printf("\n\t Zero Element In Given Array => %d",Z_cnt);
   
+  getch();
   return 0;
 }

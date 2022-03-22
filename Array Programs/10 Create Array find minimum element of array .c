@@ -1,5 +1,6 @@
 //Compiler version gcc  6.3.0
 #include <stdio.h>
+#include <conio.h>
 
 int main()
 {
@@ -21,6 +22,7 @@ int main()
     }
   }
   printf("\n\t Minimum Element Of Array => %d",Min);
-  
+   
+  getch();
   return 0;
 }

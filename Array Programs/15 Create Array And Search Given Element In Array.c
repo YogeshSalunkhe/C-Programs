@@ -28,6 +28,7 @@ int main()
   }
   else
   {
-  printf("\n\t Given Element Is Not Found !!!");
+    printf("\n\t Given Element Is Not Found !!!");
+  }
   return 0;
 }

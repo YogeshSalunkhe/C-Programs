@@ -23,9 +23,11 @@ int main()
     }
   }
   if(I < N+1)
-  printf("\n\t Find Given Element At %d Location In Array",I+1);
-  
+  {
+    printf("\n\t Find Given Element At %d Location In Array",I+1);
+  }
   else
+  {
   printf("\n\t Given Element Is Not Found !!!");
   return 0;
 }

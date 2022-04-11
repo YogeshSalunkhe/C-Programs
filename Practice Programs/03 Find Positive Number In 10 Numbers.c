@@ -17,5 +17,7 @@ int main()
      }
   }
   printf("\n\t Positive Number Count Of Given Numbers => %d",P_cnt);
+  
+  getch();
   return 0;
 }

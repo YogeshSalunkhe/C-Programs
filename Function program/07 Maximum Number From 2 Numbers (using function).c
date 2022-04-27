@@ -21,7 +21,7 @@ int main()
   {
       printf("\n\t Maximum Number Is = %d",Max);
   }
-  
+  getch();
   return 0;
 }
 int MaxN(int No1,int No2)

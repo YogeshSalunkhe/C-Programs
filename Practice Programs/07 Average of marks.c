@@ -1,8 +1,6 @@
 //Compiler version gcc  6.3.0
 #include <stdio.h>
 
-
-
 int main()
 {
   int Arr[5],Sum = 0,Avrg = 0,i = 0;

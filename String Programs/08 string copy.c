@@ -12,7 +12,7 @@ int main()
   for(I = 0;Src[I] != '\0';I++);
 
   
-  for(j = 0,I = 0; Src[I] != '\0' ;I--,j++)
+  for(j = 0; Src[I] != '\0' ;I--,j++)
   {
      Src[j] = Src[I];
     

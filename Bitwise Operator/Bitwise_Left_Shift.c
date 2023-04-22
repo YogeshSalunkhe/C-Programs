@@ -8,5 +8,6 @@ int main()
     N1 = N1<<2;
     
     printf("%d",N1);
+
     return 0;
 }

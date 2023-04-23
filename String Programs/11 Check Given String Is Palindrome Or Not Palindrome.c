@@ -19,9 +19,9 @@ int main()
     if(Src[j] != Src[I])
     {
       break;
-    }
-    
+    }  
   }
+
   if(I < j)
   {
     printf("\n\t Given String Is Palindrome!!!");

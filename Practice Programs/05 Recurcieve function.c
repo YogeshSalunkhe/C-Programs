@@ -1,7 +1,5 @@
 //Compiler version gcc  6.3.0
-
 #include <stdio.h>
-#include <conio.h>
 
 int fact1(int No)
 {

@@ -30,7 +30,7 @@ int main()
   }
   
   printf("\n\t %d",Lcm);
-  
+
   printf("\n\t %d",GCD);
   
   getch();

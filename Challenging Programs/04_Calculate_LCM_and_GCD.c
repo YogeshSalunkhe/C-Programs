@@ -21,7 +21,7 @@ int main()
       i++;
   }
   
-  for(Lcm = 1;i <= No1 * No2;Lcm++)
+  for(Lcm = 1;Lcm <= No1 * No2;Lcm++)
   {
        if(Lcm % No1 == 0 && Lcm % No2 == 0)
        {

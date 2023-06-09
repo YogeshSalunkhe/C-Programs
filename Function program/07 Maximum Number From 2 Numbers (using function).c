@@ -24,6 +24,7 @@ int main()
   getch();
   return 0;
 }
+
 int MaxN(int No1,int No2)
 {
   if(No1 == No2)

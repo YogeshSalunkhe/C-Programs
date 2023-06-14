@@ -1,5 +1,6 @@
 //Compiler version gcc  6.3.0
 #include <stdio.h>
+#include <conio.h>
 
 int main()
 {
@@ -19,5 +20,6 @@ int main()
   
   printf("\n\t Converted  string = %s",Src);
   
+  getch();
   return 0;
 }
